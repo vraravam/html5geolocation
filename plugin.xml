@@ -2,7 +2,7 @@
 
 <plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
     xmlns:android="http://schemas.android.com/apk/res/android"
-    id="html5geolocation"
+    id="vraravam.html5geolocation"
     version="0.0.1">
     <name>Html5GeoLocation</name>
     <description>Cordova HTML5-only geo-location plugin. This home-grown plugin mainly exists to fix the issue discussed here: http://stackoverflow.com/questions/19521487/phonegap-android-geolocation-is-not-accurate?answertab=active#tab-top</description>
